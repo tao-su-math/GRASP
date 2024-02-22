@@ -1,1 +1,1 @@
-# GRASP
+# GRASP Seminar
